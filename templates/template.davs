@@ -2,6 +2,7 @@
 <h2>{{ user_id }}</h2>
 <p>{{ user_credential }}</p>
 <p>{{ user_number }}</p>
+
 {% if good_day %}
 <p>This is a good day</p>
 {% else %}
